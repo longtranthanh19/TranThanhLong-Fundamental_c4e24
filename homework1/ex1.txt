@@ -1,0 +1,2 @@
+In order to check a variable's type we can use the type() function 
+We will get SyntaxError when we use the invalid name such as "  76trombones = big parade ", " more$ = 1000000 " , "class = Computer Science 101"
